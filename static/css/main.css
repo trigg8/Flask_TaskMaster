@@ -8,6 +8,8 @@ body, html {
     margin: 0 auto;
     width: 500px;
     background-color: ghostwhite;
+    padding: 2rem;
+    border-radius: 1em;
 }
 
 table, td, th {
